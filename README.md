@@ -15,10 +15,10 @@ Let's get a CrackMe... [Dojas's MEDIUM](https://crackmes.one/crackme/6167747a33c
 Windows
 
 **Difficulty:**
-1.9 Rate!
+1.9
 
 **Quality:**
-4.0 Rate!
+4.0
 
 **Arch:**
 x86-64
